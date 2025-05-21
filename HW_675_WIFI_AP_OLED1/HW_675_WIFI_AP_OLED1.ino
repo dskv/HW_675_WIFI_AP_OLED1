@@ -1,3 +1,7 @@
+//Arduino Code
+//Works on, Boad type as: "Adafruit QT Py ESP32-C3"
+//Dont forget to make sure that you downloaded and installed the board manager: "'esp32' by Espressif Systems"
+
 #include <U8g2lib.h>
 #include <Wire.h>
 
